@@ -1,0 +1,3 @@
+Logentry: 2024-04-21T20:25:10.521594600--Se cambia de la Moneda seleccionada a Dolares Con la Moneda escogida:  ZAR con el monto inicial de: 456.0 y resultado de: 23.82
+Logentry: 2024-04-21T20:25:18.563305400--Se cambia de la Moneda seleccionada a Dolares Con la Moneda escogida:  XDR con el monto inicial de: 89.0 y resultado de: 116.91
+Logentry: 2024-04-21T20:25:26.690214400--Se cambia de Dolares a Moneda seleccionada Con la Moneda escogida:  CAD con el monto inicial de: 156.0 y resultado de: 214.41
