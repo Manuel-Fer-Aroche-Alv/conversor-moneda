@@ -6,3 +6,4 @@ Se crearon los metodos de lectura de los JSon
 Ya se hace la conversión de dolar a cualquier moneda 
 Ya se hace la conversión de cualquier moneda a dolar
 Falta Log 
+Se hizo el log 
